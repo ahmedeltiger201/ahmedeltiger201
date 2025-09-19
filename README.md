@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ahmed ElTiger  
 🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFwbGswcW13ZXh0b3N2ZXZycHc4bW5udWFzdWVzbTBoam5ubm93cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="150px" align="right"/>
+<img src="[https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9ybjF0amt3cm83OXdvMDdibDBsODc1a2EwdjlscTRja2VsYnRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XFPYCjIZw0MiBXY4dP/giphy.gif)" width="150px" align="right"/>
+
 
 
 ---
@@ -16,11 +17,39 @@
 
 ---
 
-## 🛠 Skills & Tools  
+
+### 🔧 Technologies & Tools 
+  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git" />
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python" />
+
+  <!-- OS & Platforms -->
+  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" width="48" height="48" alt="Windows"/>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+
+  <!-- Security Tools -->
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux"/>
+  <img src="https://nmap.org/images/sitelogo-nmap.svg" width="48" height="48" alt="Nmap"/>
+
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git" />
+
+  <!-- Virtualization -->
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48" height="48" alt="VirtualBox"/>
+
+  <!-- Platforms -->
+  <img src="https://avatars.githubusercontent.com/u/50994705?s=200&v=4" width="48" height="48" alt="HackTheBox"/>
 </p>
+
+
+
+
+
 ## 🛠 Skills & Tools  
 
 | **Category**       | **Tools / Technologies** |
@@ -56,25 +85,25 @@
 
 ---
 
-## 🏆 Achievements & Stickers  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CTF-Player-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-Researcher-orange?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-216043319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:ahmedmohamed45678hg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-216043319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahmedmohamed45678hg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201097519637" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ahmedmohamed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
+
+
+
