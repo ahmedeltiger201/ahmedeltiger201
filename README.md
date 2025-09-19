@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ahmed ElTiger  
 🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast
 
-<img src="[https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9ybjF0amt3cm83OXdvMDdibDBsODc1a2EwdjlscTRja2VsYnRmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XFPYCjIZw0MiBXY4dP/giphy.gif)" width="150px" align="right"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHUwa2xhbmxpcmFqaXR1emx1dGFnbGJjbWNlb3QwYnlhbTB6NXRwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="fun gif" width="400"/>
+
+
 
 
 
