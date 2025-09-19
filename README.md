@@ -16,7 +16,7 @@
 ## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,cpp,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git" />
 </p>
 
 | Category           | Tools / Technologies |
