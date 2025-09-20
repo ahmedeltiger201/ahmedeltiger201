@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ahmed ElTiger  
 <!--🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast-->
 
+
 <img src="https://github.com/ahmedeltiger201/ahmedeltiger201/blob/32550a9d31d1f3edb039e474aec51e14f489ccd8/Picsart_25-09-20_20-57-54-010.png" 
      alt="fun gif" 
      width="1000" 
@@ -8,15 +9,20 @@
 
 
 
+
 ---
 
 ## 🔎 About Me  
-- 💻 Passionate about Cybersecurity & Ethical Hacking  
+- 💻 Passionate about Cybersecurity & Ethical Hacking
 - 📚 Studying Computer Engineering   
 - 🛡 Focused on Network Security, Web Application Security, and Incident Response  
 - 🎯Aspiring Red Team specialist focused on penetration testing and real-world attack simulations 
 
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BqZ3I2Nm5rY2hudmlsYmRpZmVkdGE2YTlsbDlxYm56OXl2eGhyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKHfwv3JLwrThlt4GJ/giphy.gif" 
+     alt="fun gif" 
+     width="400" 
+     height="200"/>
 
 ---
 
@@ -34,6 +40,7 @@
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" />
+   
 
   <!-- Security Tools -->
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux"/>
@@ -55,16 +62,21 @@
 
 ## 🛠 Skills & Tools  
 
-| **Category**       | **Tools / Technologies** |
+| Category       | Tools / Technologies |
 |---------------------|---------------------------|
-| 💻 **OS & Platforms** | Kali Linux, Windows |
-| 👨‍💻 **Programming**    | Python, C#, HTML, CSS |
-| 🛡 **Pentest Tools**  | Nmap |
-| 🗄️ **Databases**      | MySQLs |
-| 📡 **Networking**     |  CompTIA A+, CompTIA N+, CCNA |
-| 🏴‍☠️ **Labs & Platforms** | Hack The Box, TryHackMe |
-| ⚙️ **Other**          | Git/GitHub, VMware, VirtualBox |
-| 🤝 **Soft Skills**    | Problem Solving, Teamwork, Continuous Learning |
+| 💻 OS & Platforms | Kali Linux, Windows |
+| 👨‍💻 Programming    | Python, C#, HTML, CSS |
+| 🛡 Pentest Tools  | Nmap |
+| 🗄 Databases      | MySQLs |
+| 📡 Networking     |  CompTIA A+, CompTIA N+, CCNA |
+| 🏴‍☠️ Labs & Platforms | Hack The Box, TryHackMe |
+| ⚙️ Other          | Git/GitHub, VMware, VirtualBox |
+| 🤝 Soft Skills    | Problem Solving, Teamwork, Continuous Learning |
+
+<p align="RIGHT ">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR6MG5idHF3dDgzaDMydzNzaWI4a3RoaGtrMXF5a3hlNDRpdGoybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" width="400"  height="200/>
+</p>
+
 
 
 ---
@@ -75,6 +87,7 @@
 - 🔍 Exploring basics of Vulnerability Assessment & Penetration Testing  
 - 🐞 Getting introduced to Bug Bounty concepts  
 - ✍️ Taking notes and documenting my learning journey in security  
+
 
 
 ---
@@ -89,6 +102,8 @@
 ---
 
 ## 🌐 Connect with Me  
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-216043319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -107,6 +122,7 @@
   </a>
 </p>
 
-
-
+<p align="RIGHT ">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZmYWF1OTAwd3lkend0bWFwMnNrcTJxNG5teDR2cWR4bHI3dHloZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjscQHSz4tzVYFkDoy/giphy.gif" width="400"  height="200/>
+  
 
