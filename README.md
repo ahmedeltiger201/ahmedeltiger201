@@ -18,11 +18,27 @@
 - 🛡 Focused on Network Security, Web Application Security, and Incident Response  
 - 🎯Aspiring Red Team specialist focused on penetration testing and real-world attack simulations 
 
+<a href="https://archiveprogram.github.com/">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"/>
+</a>
+
+
+
+<a href="https://github.com/pricing">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"/>
+</a>
+
+<a href="https://stars.github.com/">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"/>
+</a>
+
+
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BqZ3I2Nm5rY2hudmlsYmRpZmVkdGE2YTlsbDlxYm56OXl2eGhyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eKHfwv3JLwrThlt4GJ/giphy.gif" 
      alt="fun gif" 
-     width="400" 
+     width="600" 
      height="200"/>
+
 
 ---
 
@@ -122,7 +138,5 @@
   </a>
 </p>
 
-<p align="RIGHT ">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZmYWF1OTAwd3lkend0bWFwMnNrcTJxNG5teDR2cWR4bHI3dHloZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjscQHSz4tzVYFkDoy/giphy.gif" width="400"  height="200/>
-  
+
 
