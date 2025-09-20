@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed ElTiger  
 <!--🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast-->
 
-<img src="https://github.com/ahmedeltiger201/ahmedeltiger201/blob/f1771049f8b4082460323c3c76974f7349206fa6/Picsart_25-09-20_20-48-29-042.jpg" 
+<img src="https://github.com/ahmedeltiger201/ahmedeltiger201/blob/32550a9d31d1f3edb039e474aec51e14f489ccd8/Picsart_25-09-20_20-57-54-010.png" 
      alt="fun gif" 
      width="1000" 
      height="400"/>
