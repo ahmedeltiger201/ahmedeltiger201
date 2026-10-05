@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahmed Mohamed  
-<!--🎓 Computer Engineering Student | 🔐 Cybersecurity SOC Analyst-->
+🎓 Computer Engineering Student | 🔐 Cybersecurity SOC Analyst
 
 <!--
 <img src="https://github.com/ahmedeltiger201/ahmedeltiger201/blob/32550a9d31d1f3edb039e474aec51e14f489ccd8/Picsart_25-09-20_20-57-54-010.png" 
