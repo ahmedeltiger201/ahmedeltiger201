@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Ahmed Mohamed  
-<!--🎓 Computer Engineering Student | 🔐 Cybersecurity Enthusiast-->
+<!--🎓 Computer Engineering Student | 🔐 Cybersecurity SOC Analyst-->
 
-
+<!--
 <img src="https://github.com/ahmedeltiger201/ahmedeltiger201/blob/32550a9d31d1f3edb039e474aec51e14f489ccd8/Picsart_25-09-20_20-57-54-010.png" 
      alt="fun gif" 
      width="1000" 
      height="400"/>
-
+-->
 
 
 
 ---
 
-## 🔎 About Me  
-- 💻 Passionate about Cybersecurity & Ethical Hacking
-- 📚 Studying Computer Engineering   
-- 🛡 Focused on Network Security, Web Application Security, and Incident Response  
-- 🎯Aspiring Red Team specialist focused on penetration testing and real-world attack simulations 
+### 🔎 About Me
+
+* 💻 SOC Analyst T1 & Cybersecurity Enthusiast
+* 🎓 Fourth-Year Computer Engineering Student
+* 🛡️ Focused on SOC Operations, Incident Response & Threat Analysis
+* 🌐 Interested in Networking, SIEM & Security Monitoring
+* 🚀 Passionate about learning and developing my cybersecurity skills
 
 
 
@@ -67,14 +69,15 @@
 
 | Category       | Tools / Technologies |
 |---------------------|---------------------------|
-| 💻 OS & Platforms | Kali Linux, Windows |
-| 👨‍💻 Programming    | Python, C#, HTML, CSS |
-| 🛡 Pentest Tools  | Nmap |
-| 🗄 Databases      | MySQLs |
-| 📡 Networking     |  CompTIA A+, CompTIA N+, CCNA |
-| 🏴‍☠️ Labs & Platforms | Hack The Box, TryHackMe |
-| ⚙️ Other          | Git/GitHub, VMware, VirtualBox |
-| 🤝 Soft Skills    | Problem Solving, Teamwork, Continuous Learning |
+| 💻 OS & Platforms | Linux, Windows |
+| 🛡 SOC & Security | Splunk, IBM QRadar, MITRE ATT&CK |
+| 🔍 Security Tools | Wireshark, Nmap |
+| 📡 Networking | Cisco Packet Tracer, CCNA, CompTIA Network+ |
+| 🖥 System Administration | Windows Event Viewer, Registry, Linux CLI & Log Analysis |
+| 🚨 Incident Response | Threat Detection, Analysis & Triage, Incident Handling |
+| 📋 Documentation | Incident Reporting, Technical Documentation |
+| 🤖 AI Tools | ChatGPT, Claude, Prompt Engineering |
+| 🤝 Soft Skills | Problem Solving, Continuous Learning |
 
 <p align="RIGHT ">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTR6MG5idHF3dDgzaDMydzNzaWI4a3RoaGtrMXF5a3hlNDRpdGoybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nVJN4PlV00ojrfkovH/giphy.gif" width="400"  height="200/>
@@ -85,23 +88,22 @@
 ---
 
 ## 🚀 Current Learning  
-- 📖 Studying Cybersecurity fundamentals and Red Team methodologies  
-- 🔧 Practicing Python for security scripting  
-- 🔍 Exploring basics of Vulnerability Assessment & Penetration Testing  
-- 🐞 Getting introduced to Bug Bounty concepts  
-- ✍️ Taking notes and documenting my learning journey in security  
-
+- 📖 Developing my knowledge in Cybersecurity and SOC Operations  
+- 🔧 Practicing Security Monitoring and Incident Analysis  
+- 🔍 Improving my skills in Threat Detection & Analysis  
+- 🛡️ Learning more about SIEM, MITRE ATT&CK & Incident Response  
+- ✍️ Documenting my cybersecurity learning journey  
 
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedeltiger201&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeltiger201&layout=compact&theme=radical" height="160"/>
 </p>
-
+-->
 ---
 
 ## 🌐 Connect with Me  
