@@ -14,7 +14,7 @@
 
 ### 🔎 About Me
 
- ### I don't just want to know that it works — I want to know why.
+**I don't just want to know that it works — I want to know why.**
 
 My journey into cybersecurity started with a simple curiosity: what is actually happening behind the systems we use every day?
 That curiosity pushed me deeper into networking, operating systems, and security. From building and troubleshooting networks in Cisco Packet Tracer to analyzing real network traffic with Wireshark, I learned to look beyond the obvious and investigate what the evidence is telling me.
