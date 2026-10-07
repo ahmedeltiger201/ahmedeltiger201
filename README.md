@@ -14,12 +14,14 @@
 
 ### 🔎 About Me
 
-* 💻 SOC Analyst T1 & Cybersecurity Enthusiast
-* 🎓 Fourth-Year Computer Engineering Student
-* 🛡️ Focused on SOC Operations, Incident Response & Threat Analysis
-* 🌐 Interested in Networking, SIEM & Security Monitoring
-* 🚀 Passionate about learning and developing my cybersecurity skills
+ I don't just want to know that it works — I want to know why.
 
+My journey into cybersecurity started with a simple curiosity: what is actually happening behind the systems we use every day?
+That curiosity pushed me deeper into networking, operating systems, and security. From building and troubleshooting networks in Cisco Packet Tracer to analyzing real network traffic with Wireshark, I learned to look beyond the obvious and investigate what the evidence is telling me.
+When I see a suspicious IP, a strange packet, or an unusual log, I don't want to simply label it as an alert. I want to understand where it came from, what it interacted with, what it affected, and whether it represents a real threat.
+My approach is simple: **understand it → test it → investigate it → secure it → document it.**
+I'm currently a fourth-year Computer and Control Engineering student building my career in Cybersecurity and SOC Operations. My practical experience includes security monitoring, incident analysis, Wireshark traffic analysis, IOC identification, SIEM concepts, MITRE ATT&CK, Nmap, Windows, Linux, and network security.
+I'm continuously building, testing, breaking, and securing systems — because I believe the best way to defend technology is to first understand how it can be attacked.
 
 
 
