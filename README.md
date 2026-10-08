@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Ahmed Mohamed Abdel Aal  
 🎓 Computer Engineering Student | 🔐 Cybersecurity SOC Analyst (Tier 1)
 
+<p align="center">
+  <a href="حط_الرابط_هنا" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+---
 
 ### 🔎 About Me
 
@@ -11,10 +18,11 @@
 My journey into cybersecurity started with a simple curiosity: what is actually happening behind the systems we use every day?
 That curiosity pushed me deeper into networking, operating systems, and security. From building and troubleshooting networks in Cisco Packet Tracer to analyzing real network traffic with Wireshark, I learned to look beyond the obvious and investigate what the evidence is telling me.
 When I see a suspicious IP, a strange packet, or an unusual log, I don't want to simply label it as an alert. I want to understand where it came from, what it interacted with, what it affected, and whether it represents a real threat.
-My approach is simple: understand it → test it → investigate it → secure it → document it.
+My approach is simple: **understand it → test it → investigate it → secure it → document it.**
 I'm currently a fourth-year Computer and Control Engineering student building my career in Cybersecurity and SOC Operations. My practical experience includes security monitoring, incident analysis, Wireshark traffic analysis, IOC identification, SIEM concepts, MITRE ATT&CK, Nmap, Windows, Linux, and network security.
 I'm continuously building, testing, breaking, and securing systems — because I believe the best way to defend technology is to first understand how it can be attacked.
 
+---
 
 ## 📜 Certifications & Core Knowledge
 
@@ -26,18 +34,18 @@ I'm continuously building, testing, breaking, and securing systems — because I
 
 ## 💼 Experience & Practical Training
 
-###  Incident Response Analyst Trainee
+### 🛡️ Incident Response Analyst Trainee
 **Digital Egypt Pioneers Initiative (DEPI)** | *2026 – Present*
 - Practicing SOC workflows, incident handling, threat intelligence, and structured technical documentation.
 
-###  SOC Analyst Trainee
+### 🔍 SOC Analyst Trainee
 **Telecom Egypt (WE) - Tanta** | *2026 – Present*
 - Hands-on training on network fundamentals, OS security (Windows & Linux), cyber attack vectors, and SIEM monitoring (Splunk / IBM QRadar).
 - Analyzing traffic with Wireshark and performing security assessments using Nmap.
 
 ---
 
-##  Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <p align="center">
   <!-- OS -->
@@ -64,7 +72,7 @@ I'm continuously building, testing, breaking, and securing systems — because I
 
 ---
 
-##  Featured Repositories
+## 📂 Featured Repositories
 
 ### 1. 🚨 Cyber Attack & Traffic Analysis
 > Comprehensive network traffic analysis reports using Wireshark and log analysis tools to detect suspicious behavior.
@@ -88,7 +96,7 @@ I'm continuously building, testing, breaking, and securing systems — because I
 
 ---
 
-##  GitHub Contribution Stats
+## 📊 GitHub Contribution Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedeltiger201&show_icons=true&theme=radical" height="160"/>
@@ -100,6 +108,10 @@ I'm continuously building, testing, breaking, and securing systems — because I
 ## 📬 Connect with Me
 
 <p align="center">
+  <a href="حط_الرابط_هنا" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ahmed-mohamed-216043319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
