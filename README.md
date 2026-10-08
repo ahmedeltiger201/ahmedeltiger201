@@ -26,18 +26,18 @@ I'm continuously building, testing, breaking, and securing systems — because I
 
 ## 💼 Experience & Practical Training
 
-### 🛡️ Incident Response Analyst Trainee
+###  Incident Response Analyst Trainee
 **Digital Egypt Pioneers Initiative (DEPI)** | *2026 – Present*
 - Practicing SOC workflows, incident handling, threat intelligence, and structured technical documentation.
 
-### 🔍 SOC Analyst Trainee
+###  SOC Analyst Trainee
 **Telecom Egypt (WE) - Tanta** | *2026 – Present*
 - Hands-on training on network fundamentals, OS security (Windows & Linux), cyber attack vectors, and SIEM monitoring (Splunk / IBM QRadar).
 - Analyzing traffic with Wireshark and performing security assessments using Nmap.
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 <p align="center">
   <!-- OS -->
@@ -64,7 +64,7 @@ I'm continuously building, testing, breaking, and securing systems — because I
 
 ---
 
-## 📂 Featured Repositories
+##  Featured Repositories
 
 ### 1. 🚨 Cyber Attack & Traffic Analysis
 > Comprehensive network traffic analysis reports using Wireshark and log analysis tools to detect suspicious behavior.
@@ -88,7 +88,7 @@ I'm continuously building, testing, breaking, and securing systems — because I
 
 ---
 
-## 📊 GitHub Contribution Stats
+##  GitHub Contribution Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedeltiger201&show_icons=true&theme=radical" height="160"/>
