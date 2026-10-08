@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>سبحة إيمان جودة الصيفي (هبة)</title>
+<style>
+:root{--bg:#f4efe4;--card:#fffaf0;--ink:#1f3a2e;--mute:#6b7d72;--accent:#2f7d5b;--accent2:#c9a24a;--ring:#dfe8dd;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1a15;--card:#16251e;--ink:#e8efe9;--mute:#93a79b;--accent:#4cb48a;--accent2:#d9b865;--ring:#243a2f}}
+:root[data-theme="dark"]{--bg:#0f1a15;--card:#16251e;--ink:#e8efe9;--mute:#93a79b;--accent:#4cb48a;--accent2:#d9b865;--ring:#243a2f}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Amiri","Noto Naskh Arabic","Traditional Arabic",Tahoma,serif;min-height:100vh;display:flex;justify-content:center}
+main{width:100%;max-width:440px;padding:20px 16px 28px;text-align:center}
+.ded{background:var(--card);border:1px solid var(--ring);border-radius:18px;padding:16px 14px}
+.ded small{color:var(--mute);font-size:14px}
+.ded h1{margin:6px 0 8px;font-size:26px;color:var(--accent);line-height:1.5}
+.ded p{margin:0;font-size:17px;line-height:1.9}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:16px 2px 6px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;border:1px solid var(--ring);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:999px;font:inherit;font-size:15px;cursor:pointer}
+.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.dhikr{font-size:30px;margin:14px 0 4px;min-height:48px;color:var(--ink)}
+.tgt{display:flex;justify-content:center;gap:8px;align-items:center;color:var(--mute);font-size:14px}
+.tgt button{border:1px solid var(--ring);background:var(--card);color:var(--ink);border-radius:8px;padding:4px 10px;font:inherit;cursor:pointer}
+.tgt button.on{border-color:var(--accent2);color:var(--accent2)}
+.wrap{position:relative;width:260px;height:260px;margin:18px auto}
+.wrap svg{position:absolute;inset:0;transform:rotate(-90deg)}
+#tap{position:absolute;inset:18px;border-radius:50%;border:none;background:var(--accent);color:#fff;font:inherit;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;box-shadow:0 8px 24px rgba(0,0,0,.18);transition:transform .08s;user-select:none;-webkit-user-select:none;touch-action:manipulation}
+#tap:active{transform:scale(.96)}
+#num{font-size:64px;line-height:1;font-variant-numeric:tabular-nums}
+#sub{font-size:14px;opacity:.85;margin-top:6px}
+.stats{display:flex;gap:10px;margin-top:6px}
+.stat{flex:1;background:var(--card);border:1px solid var(--ring);border-radius:14px;padding:10px}
+.stat b{display:block;font-size:24px;color:var(--accent2);font-variant-numeric:tabular-nums}
+.stat span{font-size:13px;color:var(--mute)}
+.row{display:flex;gap:10px;margin-top:12px}
+.row button{flex:1;border:1px solid var(--ring);background:var(--card);color:var(--ink);padding:11px;border-radius:12px;font:inherit;font-size:15px;cursor:pointer}
+.foot{margin-top:20px;color:var(--mute);font-size:15px;line-height:1.9}
+</style>
+</head>
+<body>
+<main>
+  <section class="ded">
+    <small>صدقة جارية على روح</small>
+    <h1>المرحومة بإذن الله<br>إيمان جودة الصيفي (هبة)</h1>
+    <p>اللهم اغفر لها وارحمها وعافها واعفُ عنها، وأكرم نزلها ووسّع مدخلها، واجعل قبرها روضة من رياض الجنة.</p>
+  </section>
+
+  <div class="chips" id="chips"></div>
+  <div class="dhikr" id="dhikr"></div>
+  <div class="tgt">الهدف:
+    <button data-t="33">٣٣</button><button data-t="100">١٠٠</button><button data-t="0">مفتوح</button>
+  </div>
+
+  <div class="wrap">
+    <svg viewBox="0 0 260 260" width="260" height="260" aria-hidden="true">
+      <circle cx="130" cy="130" r="122" fill="none" stroke="var(--ring)" stroke-width="8"/>
+      <circle id="arc" cx="130" cy="130" r="122" fill="none" stroke="var(--accent2)" stroke-width="8" stroke-linecap="round" stroke-dasharray="766.5" stroke-dashoffset="766.5"/>
+    </svg>
+    <button id="tap" aria-label="تسبيح"><span id="num">٠</span><span id="sub">اضغط للتسبيح</span></button>
+  </div>
+
+  <div class="stat" id="sharedBox" hidden style="margin-bottom:10px;border-color:var(--accent2)">
+    <b id="shared">٠</b><span>إجمالي تسبيحات كل المشاركين لروح إيمان</span>
+  </div>
+  <div class="stats">
+    <div class="stat"><b id="rounds">٠</b><span>عدد الدورات</span></div>
+    <div class="stat"><b id="total">٠</b><span>إجمالي التسبيحات</span></div>
+  </div>
+  <div class="row">
+    <button id="reset">تصفير العدّاد</button>
+    <button id="vib">الاهتزاز: تشغيل</button>
+  </div>
+
+  <p class="foot">«إذا مات ابن آدم انقطع عمله إلا من ثلاث: صدقة جارية، أو علم يُنتفع به، أو ولد صالح يدعو له»<br>اللهم اجعل ثواب هذا التسبيح في ميزان حسناتها.</p>
+</main>
+
+<script>
+const D=["سبحان الله","الحمد لله","الله أكبر","لا إله إلا الله","أستغفر الله","سبحان الله وبحمده","سبحان الله العظيم","اللهم صلِّ وسلّم على نبينا محمد","لا حول ولا قوة إلا بالله"];
+const ar=n=>String(n).replace(/\d/g,d=>"٠١٢٣٤٥٦٧٨٩"[d]);
+let S={i:0,c:{},total:0,rounds:0,target:33,vib:true};
+try{const r=localStorage.getItem("tasbih-iman");if(r)S=Object.assign(S,JSON.parse(r))}catch(e){}
+const $=id=>document.getElementById(id);
+function save(){try{localStorage.setItem("tasbih-iman",JSON.stringify(S))}catch(e){}}
+function render(){
+  const c=S.c[S.i]||0;
+  $("num").textContent=ar(c);
+  $("dhikr").textContent=D[S.i];
+  $("total").textContent=ar(S.total);
+  $("rounds").textContent=ar(S.rounds);
+  $("vib").textContent="الاهتزاز: "+(S.vib?"تشغيل":"إيقاف");
+  const p=S.target?Math.min(c/S.target,1):0;
+  $("arc").style.strokeDashoffset=766.5*(1-p);
+  $("sub").textContent=S.target?("من "+ar(S.target)):"اضغط للتسبيح";
+  document.querySelectorAll(".chip").forEach((b,k)=>b.classList.toggle("on",k===S.i));
+  document.querySelectorAll(".tgt button").forEach(b=>b.classList.toggle("on",+b.dataset.t===S.target));
+}
+$("chips").innerHTML=D.map((d,k)=>`<button class="chip" data-k="${k}">${d}</button>`).join("");
+$("chips").onclick=e=>{const k=e.target.dataset.k;if(k!==undefined){S.i=+k;save();render()}};
+document.querySelector(".tgt").onclick=e=>{const t=e.target.dataset.t;if(t!==undefined){S.target=+t;save();render()}};
+let myRef=null,wTimer=null;
+function pushMine(){
+  clearTimeout(wTimer);
+  wTimer=setTimeout(()=>{if(myRef)myRef.set({n:S.total}).catch(()=>{})},1500);
+}
+(async()=>{
+  try{
+    if(!window.claude)return;
+    const [db,user]=await Promise.all([claude.use("db"),claude.use("user")]);
+    if(!db||!user||!user.id)return;
+    const id=await user.id();
+    myRef=db.collection("counts").doc(id);
+    db.collection("counts").onSnapshot(snap=>{
+      let sum=0;
+      snap.docs.forEach(d=>{
+        const n=+((d.data()||{}).n)||0;
+        if(d.id===id){
+          if(n>S.total){S.total=n;save();render()}
+          sum+=Math.max(n,S.total);
+        }else sum+=n;
+      });
+      if(!snap.docs.some(d=>d.id===id))sum+=S.total;
+      $("shared").textContent=ar(sum);
+      $("sharedBox").hidden=false;
+    },()=>{});
+    if(S.total>0)pushMine();
+  }catch(e){}
+})();
+$("tap").onclick=()=>{
+  S.c[S.i]=(S.c[S.i]||0)+1;S.total++;pushMine();
+  if(S.target&&S.c[S.i]>=S.target){
+    S.rounds++;S.c[S.i]=0;
+    if(S.vib&&navigator.vibrate)try{navigator.vibrate([60,40,60])}catch(e){}
+  }else if(S.vib&&navigator.vibrate)try{navigator.vibrate(15)}catch(e){}
+  save();render();
+};
+$("reset").onclick=()=>{S.c[S.i]=0;save();render()};
+$("vib").onclick=()=>{S.vib=!S.vib;save();render()};
+render();
+</script>
+</body>
+</html>
